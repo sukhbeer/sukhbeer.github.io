@@ -1,7 +1,6 @@
-theme: jekyll-theme-cayman
-title: Udacity Google India Scholarship program
-description: List of projects created as part of Udacity Android Basics course
-plugins:
-  - jemoji
-github:
-  is_project_page: true
+Greeting Message App (single Screen)
+Udacity Information App(Single Screen)
+Coffee Order App(Single Screen With Button)
+CourtCounterApp(Single Screen With Multiple Button And Using Nested Layout)
+QuizApp(Final Project Of Course)
+Contribution in Collabrative Project (Daily Goal App Work On XML Layout)
